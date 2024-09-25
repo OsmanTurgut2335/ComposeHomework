@@ -1,0 +1,15 @@
+[submodule "odev3"]
+	path = odev3
+	url = https://github.com/OsmanTurgut2335/Odev3
+[submodule "odev4"]
+	path = odev4
+	url = https://github.com/OsmanTurgut2335/Odev4
+[submodule "odev5"]
+	path = odev5
+	url = https://github.com/OsmanTurgut2335/Odev5
+[submodule "odev6"]
+	path = odev6
+	url = https://github.com/OsmanTurgut2335/Odev6
+[submodule "odev7"]
+	path = odev7
+	url = https://github.com/OsmanTurgut2335/Odev7
